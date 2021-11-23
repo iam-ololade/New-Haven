@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import Hero from '../components/Hero';
 import Footer from "../components/Footer";
 import { NextSeo } from "next-seo";
-import Listed from "../components/LIsted";
+import Listed from "../components/Listed";
 import Brand from '../components/Brand';
 import Services from "../components/Services";
 import Reviews from "../components/Reviews";
