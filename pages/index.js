@@ -7,7 +7,7 @@ import Listed from "../components/Listed";
 import Brand from '../components/Brand';
 import Services from "../components/Services";
 import Reviews from "../components/Reviews";
-import GetListed from "../components/GetListed";
+// import GetListed from "../components/GetListed";
 
 export default function Home() {
   return (
