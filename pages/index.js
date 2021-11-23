@@ -30,7 +30,7 @@ export default function Home() {
       <Listed />
       <Services />
       <Reviews/>
-      <GetListed/>
+      {/* <GetListed/> */}
       <Footer />
     </div>
   );
